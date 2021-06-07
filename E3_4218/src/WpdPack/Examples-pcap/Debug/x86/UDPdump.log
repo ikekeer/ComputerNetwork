@@ -1,0 +1,15 @@
+﻿D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(29,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (28,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(370,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\)包含从另一个项目(basic_dump.vcxproj, basic_dump_ex.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendpack.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  UDPdump.c
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(84,13): warning C4101: “alldevs”: 未引用的局部变量
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(92,21): warning C4101: “fcode”: 未引用的局部变量
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(90,8): warning C4101: “netmask”: 未引用的局部变量
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(86,6): warning C4101: “inum”: 未引用的局部变量
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(91,7): warning C4189: “packet_filter”: 局部变量已初始化但不引用
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(87,6): warning C4189: “i”: 局部变量已初始化但不引用
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\UDPdump\UDPdump.c(85,13): warning C4101: “d”: 未引用的局部变量
+UDPdump.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  UDPdump.vcxproj -> D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\Debug\x86\UDPdump.exe

@@ -1,0 +1,8 @@
+﻿D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(29,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (28,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(370,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\Program Files\VS2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\)包含从另一个项目(basic_dump.vcxproj, basic_dump_ex.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, UDPdump.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
+  sendpack.c
+D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\sendpack\sendpack.c : fatal error C1041: 无法打开程序数据库“D:\LenovoSoftstore\network\lab3\WpdPack_4_1_2\WpdPack\Examples-pcap\Debug\x86\vc142.pdb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
